@@ -30,7 +30,6 @@
         {
             this.btnClickMe = new System.Windows.Forms.Button();
             this.btnExit = new System.Windows.Forms.Button();
-            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.SuspendLayout();
             // 
             // btnClickMe
@@ -70,7 +69,6 @@
 
         private System.Windows.Forms.Button btnClickMe;
         private System.Windows.Forms.Button btnExit;
-        private System.ComponentModel.BackgroundWorker backgroundWorker1;
     }
 }
 

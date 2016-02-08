@@ -24,7 +24,7 @@ namespace Assignment8b_Stroop
 
         private void btnExit_Click(object sender, EventArgs e)
         {
-            this.Dispose();
+            Dispose();
         }
     }
 }
